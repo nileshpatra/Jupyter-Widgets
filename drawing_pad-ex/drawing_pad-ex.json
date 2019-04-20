@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "drawing_pad-ex/extension": true
+  }
+}

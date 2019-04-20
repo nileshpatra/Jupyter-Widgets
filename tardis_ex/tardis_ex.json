@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "tardis_ex/extension": true
+  }
+}

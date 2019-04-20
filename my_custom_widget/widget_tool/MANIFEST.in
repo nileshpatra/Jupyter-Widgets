@@ -1,0 +1,2 @@
+recursive-include widget_tool/static *.*
+include widget_tool.json
